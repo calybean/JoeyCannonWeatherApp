@@ -13,10 +13,4 @@ interface OpenWeatherService {
         @Query("appid")
         appId: String
     ): Observable<ListWeatherData>
-
-//    @GET("img/wn/{icon}@2x.png")
-//    fun getIcon(
-//        @Path(value = "icon")
-//        icon: String
-//    ): Observable<JSONObject>
 }
