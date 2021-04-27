@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Joey Cannon Weather App</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="get_weather">Get Weather</string>
+
+    <string name="degrees">%1$.0f\u00b0</string>
+    <string name="degrees_F">%1$.0f\u00b0F</string>
+    <string name="degrees_C">%1$.0f\u00b0C</string>
+    <string name="F">°F</string>
+    <string name="C">°C</string>
+
+    <string name="feels_like">Feels like %1$.0f\u00b0</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+
+    <string name="error">Error: Invalid city</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00a3cc</color>
+    <color name="colorPrimaryDark">#007a99</color>
+    <color name="colorAccent">#e6b800</color>
+    <color name="colorPrimarySemiTransparent">#5000a3cc</color>
+    <color name="whiteSemiTransparent">#30ffffff</color>
+    <color name="ripple">#50000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorError">#ff2600</color>
+</resources>
